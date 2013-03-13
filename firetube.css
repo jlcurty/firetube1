@@ -1,0 +1,37 @@
+body {
+  background: #fbfbfb;
+  color: #333;
+  font-family: Helvetica, sans-serif;
+  line-height: 20px;
+  width: 420px;
+  margin: auto;
+}
+#loginDiv {
+  float: right;
+  margin: 5px 0;
+}
+#video {
+  margin: 5px 0;
+}
+.comment {
+  margin: 7px 0;
+  padding: 5px;
+  border: 1px solid #ddd;
+  background: #fff;
+  min-height: 50px;
+}
+.pic {
+  padding-right: 10px;
+  float: left;
+}
+#textWrap {
+  padding-top: 5px;
+  margin-top: 10px;
+  border-top: 1px solid #bbb;
+}
+#text {
+  width: 100%;
+  font-size: 100%;
+  font-family: Helvetica, sans-serif;
+  border: 1px solid #ddd;
+}
